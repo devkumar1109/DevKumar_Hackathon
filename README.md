@@ -67,7 +67,7 @@ The Naive Bayes model achieved the highest mean ROC AUC score of 81%.
 
 
 ## Acknowledgments
-- Dataset provided by [Your Data Source]
+- Dataset provided by [dataset and all]
 - Machine learning models implemented using [scikit-learn](https://scikit-learn.org/)
 
 ---
